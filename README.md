@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **interesting open-source projects or collaborating on innovative ideas. Feel free to reach out! 😊**
 
-- 👨‍💻 All of my projects are available at [http://dillipfolio.web.app](http://dillipfolio.web.app)
+- 👨‍💻 All of my projects are available at [https://dillipfolio.web.app](https://dillipfolio.web.app)
 
 - 💬 Ask me about **Developing scalable backend systems with Java Spring Boot, Creating full-stack applications using Angular and Spring Boot, Best practices for using PostgreSQL and MongoDB effectively, Implementing caching strategies with Redis in Spring Boot, Building contract-first APIs with OpenAPI specifications, Tips for getting started with NestJS or Angular Material**
 
